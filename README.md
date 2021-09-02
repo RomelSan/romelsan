@@ -5,7 +5,3 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romelsan&&hide=javascript,css,html&langs_count=4&line_height=35&theme=nord" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=romelsan&theme=nord"/>
-
-<a href="https://twitter.com/romelsan">
-  <img src="https://img.shields.io/twitter/follow/romelsan?style=for-the-badge&logo=twitter&&labelColor=1f1f1f&color=5fffaf" />
-</a>
